@@ -1,0 +1,17 @@
+native_ads=0
+native_ads_freq=3
+inter_ads=0
+inter_ads_freq=1000
+content_locked_percent=0
+payment_delay=30
+payment_time=0
+noti_delay=10
+noti_time=0
+btn_share=0
+btn_share_screenshoot=0
+btn_share_webview=0
+reaction_layout=0
+lock_pro=0
+rate_app=0
+dark_mode=0
+update_every_x_hour=999

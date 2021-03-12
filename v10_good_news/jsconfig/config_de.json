@@ -1,0 +1,112 @@
+{
+    "1_page_payment": {
+        "1_page_payment_0_tv1": "Jetzt anfangen",
+        "1_page_payment_0_tv2": "Wenn Sie sich f\u00fcr den Kauf von Gorgeously entscheiden, wird die Zahlung Ihrem Google Play-Konto belastet, und die Verl\u00e4ngerung Ihres Kontos wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums belastet."
+    },
+    "4_page_payment": {
+        "4_page_payment_0_tv1": "Schlechte Nachrichten sind schlecht f\u00fcr Ihre Gesundheit und Ihren Geist",
+        "4_page_payment_0_tv2": "Warum sind Zeitungen und Fernsehsendungen voller Katastrophen, Korruption und Inkompetenz? Es kann sein, dass wir von deprimierenden Geschichten angezogen werden, ohne es zu merken, sagt der Psychologe Tom Stafford.",
+        "4_page_payment_1_tv1": "Zu viele schlechte Nachrichten k\u00f6nnen dich krank machen",
+        "4_page_payment_1_tv2": "Mit jedem Nachrichtenalarm oder jeder aktuellen Nachricht scheint unsere Welt immer weiter in die Krise zu geraten. Dies belastet unsere Umwelt, aber auch unsere geistige Gesundheit erheblich.",
+        "4_page_payment_2_tv1": "Dies ist dein Gehirn bei einer Katastrophe",
+        "4_page_payment_2_tv2": "Unser Gehirn ist fest verdrahtet, um Stress im Zusammenhang mit Traumata zu verarbeiten, indem es in den sogenannten \"Kampf, Flucht, Einfrieren\" -Modus wechselt, bevor es in einen erholsamen Zustand zur\u00fcckkehrt, erkl\u00e4rte Susanne Babbel, eine auf Trauma-Genesung spezialisierte Psychotherapeutin. Eine st\u00e4ndige Exposition gegen\u00fcber Traumata kann jedoch unsere F\u00e4higkeit, gesund umzugehen, beeintr\u00e4chtigen und unsere F\u00e4higkeit, in einen entspannten Zustand zur\u00fcckzukehren, beeintr\u00e4chtigen.",
+        "4_page_payment_3_tv1": "Jetzt anfangen",
+        "4_page_payment_3_tv2": "Wenn Sie sich f\u00fcr den Kauf von Gorgeously entscheiden, wird die Zahlung Ihrem Google Play-Konto belastet, und die Verl\u00e4ngerung Ihres Kontos wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums belastet."
+    },
+    "background_update": {
+        "background_update_freq_type": "Tage"
+    },
+    "bottom_payment": {
+        "bottom_payment_tv0": "Wundersch\u00f6nes Upgrade",
+        "bottom_payment_tv1": "Greifen Sie auf Pro-Funktionen zu",
+        "bottom_payment_tv2": "Kann jederzeit abbestellen",
+        "bottom_payment_tv3": "Unbegrenzt gute Nachrichten t\u00e4glich",
+        "bottom_payment_tv4": "Jetzt anfangen",
+        "bottom_payment_tv5": "Fortsetzen"
+    },
+    "config": {
+        "background_update": 1,
+        "background_update_freq": 1,
+        "banner_ads_ontop": 1,
+        "btn_share": 1,
+        "btn_share_screenshoot": 1,
+        "btn_share_webview": 1,
+        "buy_coffee_tea": 0,
+        "content_locked_percent": 0,
+        "dark_mode": 1,
+        "inter_ads": 0,
+        "inter_ads_freq": 1000,
+        "intro_version": 0,
+        "lock_dark_mode": 0,
+        "lock_news_filter": 0,
+        "lock_pro": 1,
+        "native_ads": 1,
+        "native_ads_freq": 5,
+        "noti_delay": 10,
+        "noti_time": 1,
+        "page_switch_delay": 2,
+        "payment_delay": 30,
+        "payment_time": 1,
+        "payment_version": 1,
+        "rate_app": 1,
+        "reaction_layout": 1,
+        "reward_ads_on_back_webview": 0,
+        "reward_ads_on_payment_close": 0,
+        "show_intro": 1,
+        "show_tutorial": 1,
+        "ticket_valid_days": 7,
+        "update_every_x_hour": 1,
+        "weather": 1
+    },
+    "features": {
+        "btnClosePayment_delay": 0,
+        "btnFreeTrial": "Fortsetzen",
+        "payment_show": "on",
+        "price": "1usd_1year_sub",
+        "tv1": "Anzeigen kostenlos",
+        "tv2": "Smart Filter",
+        "tv3": "Dunkler Modus",
+        "tv4": "T\u00e4gliches News Update",
+        "tv5": "Probieren Sie zuerst neue Funktionen und mehr aus",
+        "tv6": "Jetzt anfangen",
+        "tv7": "<3"
+    },
+    "intro": {
+        "img0": "http://images.pexels.com/photos/915051/pexels-photo-915051.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img1": "http://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img2": "http://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img3": "http://images.pexels.com/photos/1776862/pexels-photo-1776862.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img4": "http://images.pexels.com/photos/712413/pexels-photo-712413.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "p0tv1": "\u00dcberall zu viel Negativit\u00e4t?",
+        "p0tv2": "Beseitigen Sie schlechte Nachrichten mit intelligenten Filtern",
+        "p1tv1": "Nacht-Modus",
+        "p1tv2": "Anti Augenbelastung und sch\u00f6ne Oberfl\u00e4che",
+        "p2tv1": "Sie haben die Kontrolle",
+        "p2tv2": "T\u00e4gliche Nachrichten-Updates, lesen Sie, was Sie wollen",
+        "p3tv1": "Du bist die Inspiration",
+        "p3tv2": "Verbreite die positive Energie an alle\n\u2764\ufe0fDr\u00fccken Sie die Taste unten, um fortzufahren\ud83d\udc47",
+        "p4tv1": "Ihre Privatsph\u00e4re ist wichtig",
+        "p4tv2": "Wir geben niemals Ihre Daten oder was auch immer weiter. Ihre Privatsph\u00e4re ist genauso wichtig wie Ihre Erfahrungen. Weiterlesen..."
+    },
+    "invite_friends_to_unlock_reward": {
+        "invite_friends_btn": "in Ordnung",
+        "invite_friends_tv0": "BELOHNUNG \ud83d\udc8e",
+        "invite_friends_tv1": "Gl\u00fcckwunsch! Sie entsperren PRO nur f\u00fcr 1 Woche",
+        "invite_friends_tv2": "Laden Sie Ihre Freunde immer wieder ein, noch mehr freizuschalten",
+        "invite_friends_tv3": "",
+        "invite_friends_tv4": ""
+    },
+    "links": {
+        "coffee_tea": "https://ko-fi.com/sunnyday",
+        "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
+    },
+    "payment_style": {
+        "payment_style_on_restart": "dialog_payment",
+        "payment_style_on_start": "keiner",
+        "payment_style_unlock_features": "bottom_payment",
+        "payment_style_unlock_news": "bottom_payment"
+    },
+    "show_payment_when_pro_expired": {
+        "pro_expired_alert": "Das PRO-Paket ist gerade abgelaufen. Aktualisieren Sie noch heute, um PRO fortzusetzen"
+    }
+}

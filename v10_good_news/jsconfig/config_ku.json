@@ -1,0 +1,112 @@
+{
+    "1_page_payment": {
+        "1_page_payment_0_tv1": "Destp\u00eak Naha",
+        "1_page_payment_0_tv2": "Heke h\u00fbn terc\u00eeh bikin ku bi Gorgeor\u00ee bikirin, d\u00ea drav ji hesab\u00ea weya Google Play re were stendin, \u00fb d\u00ea hesab\u00ea we ji bo n\u00fbvekirin\u00ea di nav 24-demjim\u00ear\u00ean ber\u00ee dawiya heyama hey\u00ee de were girtin."
+    },
+    "4_page_payment": {
+        "4_page_payment_0_tv1": "N\u00fb\u00e7ey\u00ean xirab ji bo tendurist\u00ee \u00fb hi\u015f\u00ea we xirab in",
+        "4_page_payment_0_tv2": "\u00c7ima rojname \u00fb we\u015fan\u00ean TV-y\u00ea bi karesat, gendel\u00ee \u00fb b\u00eatifaqiy\u00ea dagirt\u00ee ne? Ew dibe ku ji ber ku em \u00e7\u00eerok\u00ean dil\u015fikest\u00ee diki\u015f\u00eenin b\u00eay\u00ee ku em p\u00ea hay bibin, dib\u00eaje ps\u00eekolog Tom Stafford.",
+        "4_page_payment_1_tv1": "N\u00fb\u00e7eyek pir xirab dikare we nexwe\u015f bike",
+        "4_page_payment_1_tv2": "Bi her hi\u015fyariya n\u00fb\u00e7ey\u00ea an \u00e7\u00eerokek \u015fikest\u00ee, xuya dike ku c\u00eehana me b\u00eatir \u00fb b\u00eatir dikeve kr\u00eez\u00ea. Ew ji haw\u00eerdora me di heman dem\u00ea de ji tenduristiya giyan\u00ee j\u00ee zirarek giran dide.",
+        "4_page_payment_2_tv1": "Ev mejiy\u00ea we li ser karesat\u00ea ye",
+        "4_page_payment_2_tv2": "Mejiy\u00ean me zexm in ku stresa t\u00eakildar\u00ee trawmay\u00ea p\u00eavajoy\u00ea bikin bi ketina moda ku wek\u00ee \"\u015fer, fir\u00een, cemed\" t\u00ea zan\u00een ber\u00ee vegera dewletek aram, diyar kir ku Susanne Babbel, ps\u00eekoterap\u00eestek pispor di ba\u015fkirina trawmay\u00ea de. L\u00eabel\u00ea, r\u00fbbir\u00fbb\u00fbna domdar a trawmay\u00ea dikare qab\u00eeliyeta me ya ku em bi tendurist\u00ee li ber xwe didin t\u00eak bibe \u00fb \u015fiyana me ya vegera li rew\u015fek rehet asteng bike.",
+        "4_page_payment_3_tv1": "Destp\u00eak Naha",
+        "4_page_payment_3_tv2": "Heke h\u00fbn terc\u00eeh bikin ku bi Gorgeor\u00ee bikirin, d\u00ea drav ji hesab\u00ea weya Google Play were stendin, \u00fb d\u00ea hesab\u00ea we ji bo n\u00fbvekirin\u00ea di nav 24-demjim\u00earan pior heya dawiya heyama hey\u00ee de were girtin."
+    },
+    "background_update": {
+        "background_update_freq_type": "rojan"
+    },
+    "bottom_payment": {
+        "bottom_payment_tv0": "Upgrade Gorgeously",
+        "bottom_payment_tv1": "Taybetmendiy\u00ean pro bigih\u00eenin",
+        "bottom_payment_tv2": "Dibe ku h\u00fbn her dem betal bibin",
+        "bottom_payment_tv3": "Rojane Mizg\u00eeniya B\u00eas\u00eenor",
+        "bottom_payment_tv4": "Destp\u00eak Naha",
+        "bottom_payment_tv5": "Berdewamkirin"
+    },
+    "config": {
+        "background_update": 1,
+        "background_update_freq": 1,
+        "banner_ads_ontop": 1,
+        "btn_share": 1,
+        "btn_share_screenshoot": 1,
+        "btn_share_webview": 1,
+        "buy_coffee_tea": 0,
+        "content_locked_percent": 0,
+        "dark_mode": 1,
+        "inter_ads": 0,
+        "inter_ads_freq": 1000,
+        "intro_version": 0,
+        "lock_dark_mode": 0,
+        "lock_news_filter": 0,
+        "lock_pro": 1,
+        "native_ads": 1,
+        "native_ads_freq": 5,
+        "noti_delay": 10,
+        "noti_time": 1,
+        "page_switch_delay": 2,
+        "payment_delay": 30,
+        "payment_time": 1,
+        "payment_version": 1,
+        "rate_app": 1,
+        "reaction_layout": 1,
+        "reward_ads_on_back_webview": 0,
+        "reward_ads_on_payment_close": 0,
+        "show_intro": 1,
+        "show_tutorial": 1,
+        "ticket_valid_days": 7,
+        "update_every_x_hour": 1,
+        "weather": 1
+    },
+    "features": {
+        "btnClosePayment_delay": 0,
+        "btnFreeTrial": "Berdewamkirin",
+        "payment_show": "on",
+        "price": "1usd_1year_sub",
+        "tv1": "Ads Free",
+        "tv2": "Parz\u00fbna Smart",
+        "tv3": "Modeya Tar\u00ee",
+        "tv4": "Rojane N\u00fbvekirin",
+        "tv5": "P\u00ea\u015f\u00een ku taybetmendiy\u00ean n\u00fb \u00fb b\u00eatir bicerib\u00eenin",
+        "tv6": "Destp\u00eak Naha",
+        "tv7": "<3"
+    },
+    "intro": {
+        "img0": "http://images.pexels.com/photos/915051/pexels-photo-915051.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img1": "http://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img2": "http://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img3": "http://images.pexels.com/photos/1776862/pexels-photo-1776862.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img4": "http://images.pexels.com/photos/712413/pexels-photo-712413.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "p0tv1": "Li her der\u00ea pir ney\u00een\u00ee ye?",
+        "p0tv2": "Bi parz\u00fbn\u00ean z\u00eerek ji n\u00fb\u00e7ey\u00ean xirab xelas bibin",
+        "p1tv1": "Modeya \u015fev\u00ea",
+        "p1tv2": "T\u00eako\u015f\u00eena li dij\u00ee \u00e7av \u00fb navr\u00fbya bedew",
+        "p2tv1": "H\u00fbn di bin kontrol\u00ea de ne",
+        "p2tv2": "N\u00fbvekirin\u00ean n\u00fb\u00e7ey\u00ean rojane, h\u00fbn \u00e7i dixwazin bixw\u00eenin",
+        "p3tv1": "H\u00fbn \u00eelham in",
+        "p3tv2": "Enerjiya er\u00ean\u00ee li her kes\u00ea belav bikin\nUTDIV BIND to JI BO Bidom\u00eeninESSESSNESSNNE",
+        "p4tv1": "Taybetmendiya we gir\u00eeng e",
+        "p4tv2": "Em \u00e7u car\u00ee daney\u00ean we an \u00e7i par nakin, nepeniya we ten\u00ea wek\u00ee serp\u00eahatiy\u00ean we gir\u00eeng e. B\u00eatir bixw\u00eenin ..."
+    },
+    "invite_friends_to_unlock_reward": {
+        "invite_friends_btn": "Ba\u015f e",
+        "invite_friends_tv0": "XELAT",
+        "invite_friends_tv1": "P\u00eerozbah\u00ee! H\u00fbn ten\u00ea 1 heftey\u00ea PRO-y\u00ea vedikin",
+        "invite_friends_tv2": "Vexwendina heval\u00ean xwe bikin ku h\u00eaj b\u00eatir vekin",
+        "invite_friends_tv3": "",
+        "invite_friends_tv4": ""
+    },
+    "links": {
+        "coffee_tea": "https://ko-fi.com/sunnyday",
+        "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
+    },
+    "payment_style": {
+        "payment_style_on_restart": "dialog_payment",
+        "payment_style_on_start": "net\u00fb",
+        "payment_style_unlock_features": "bottom_payment",
+        "payment_style_unlock_news": "bottom_payment"
+    },
+    "show_payment_when_pro_expired": {
+        "pro_expired_alert": "Pak\u00eata PRO ten\u00ea xelas b\u00fb, \u00eero n\u00fbve bikin ku PRO berdewam bikin"
+    }
+}

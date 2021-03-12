@@ -1,0 +1,76 @@
+from flask import Flask, request, redirect, url_for, send_from_directory, send_file
+from flask import render_template, flash, session, redirect, jsonify
+import re
+import os
+from werkzeug import secure_filename
+from flask import jsonify
+import pandas as pd
+import string
+import random
+import pickle
+import time
+import requests
+#my_l_tag="es,pl,sa,ns,el,da,ms,sw,sv,qu,mk,ko,lt,lv,nl,pt,is,tr,ja,pa,fa,tn,sl,bg,az,gl,he,bs,et,id,ur,hr,ky,mr,fr,ka,tl,ca,vi,nb,ps,sk,cy,fo,kk,en,it,ru,cs,se,ro,te,dv,zu,fi,eo,gu,hy,eu,sr,sy,zh,ar,mi,tt,uk,uz,nn,af,mt,th,ts,xh,mn,hi,sq,de,ta,hu,be,kn".split(",")
+my_l_tag=['af', 'am', 'ar', 'az', 'be', 'bg', 'bn', 'bs', 'ca', 'co', 'cs', 'cy', 'da', 'de', 'el', 'eo', 'es', 'et', 'eu', 'fa', 'fi', 'fr', 'fy', 'ga', 'gd', 'gl', 'gu', 'ha', 'he', 'hi', 'hr', 'ht', 'hu', 'hy', 'id', 'ig', 'in', 'is', 'it', 'iw', 'ja', 'ji', 'jv', 'jw', 'ka', 'kg', 'kk', 'km', 'kn', 'ko', 'ku', 'ky', 'la', 'lb', 'lo', 'lt', 'lv', 'mg', 'mi', 'mk', 'ml', 'mn', 'mo', 'mr', 'ms', 'mt', 'my', 'nb', 'ne', 'nl', 'nn', 'no', 'ny', 'or', 'pa', 'pl', 'ps', 'pt', 'ro', 'ru', 'rw', 'sd', 'sh', 'si', 'sk', 'sl', 'sm', 'sn', 'so', 'sq', 'sr', 'st', 'su', 'sv', 'sw', 'ta', 'te', 'tg', 'th', 'tk', 'tl', 'tr', 'tt', 'ug', 'uk', 'ur', 'uz', 'vi', 'xh', 'yi', 'yo', 'zh', 'zu']
+#my_l_tag=["ar","bg","bn","cs","el","de","fr","en","he","hi"]+\
+#                    ["hu","id","it","ja","ko","lt","ml","mr","nl","no"]+\
+#                    ["pl","ro","ru","sk","sl","sr","sv","ta","te","th"]+\
+#                    ["en",'tr','uk','vi']
+
+from datetime import datetime as d
+app = Flask(__name__)
+#import logging
+#log = logging.getLogger('werkzeug')
+#log.setLevel(logging.ERROR)
+app.config.from_object(__name__)
+app.config['SECRET_KEY'] = '7d441f27d441f27567d441f2b6176a'
+@app.route('/upload', methods=['GET', 'POST'],endpoint='upload')
+def upload_file():
+    if request.method == 'POST':
+        file = request.files['file']
+        if file:
+            print('**found file', file.filename)
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(os.getcwd()+"/multi_news/", filename))
+            return jsonify({"status":"upload_done"})
+@app.route('/newsfeed',endpoint="newsfeed")
+def return_file_01():
+    try:
+        return send_file('df_goodnews.csv', attachment_filename='df_goodnews')
+    except Exception as e:
+        return str(e)
+@app.route('/multi_news/<string:l_tag>',endpoint="dl0")
+def return_file_00(l_tag):
+    if l_tag not in my_l_tag:
+        try:
+            return send_file(os.getcwd()+"/multi_news/"+'df_goodnews_'+'en'+".csv", attachment_filename='df_goodnews')
+        except Exception as e:
+            return str(e)
+    else:
+        try:
+            return send_file(os.getcwd()+"/multi_news/"+'df_goodnews_'+l_tag+".csv", attachment_filename='df_goodnews')
+        except Exception as e:
+            return str(e)
+@app.route('/features/<string:l_tag>',endpoint="ft")
+def return_file_03(l_tag):
+    try:
+        return send_file(os.getcwd()+"/features/"+'f_'+l_tag+".csv", attachment_filename='f')
+    except Exception as e:
+        return send_file(os.getcwd()+"/features/"+'f_'+'en'+".csv", attachment_filename='f')
+@app.route('/config/<string:l_tag>',endpoint="config")
+def return_file_04(l_tag):
+    try:
+        return send_file(os.getcwd()+"/config/"+'config_'+l_tag+".txt", attachment_filename='config')
+    except Exception as e:
+        return send_file(os.getcwd()+"/config/"+'config_'+'en'+".txt", attachment_filename='config')
+@app.route('/upload', methods=['GET', 'POST'],endpoint='upload')
+def upload_file():
+    if request.method == 'POST':
+        file = request.files['file']
+        if file:
+            print('**found file', file.filename)
+            filename = secure_filename(file.filename)
+            file.save(os.path.join(os.getcwd()+"/multi_news/", filename))
+            return jsonify({"status":"upload_done"})
+if __name__ == '__main__':
+    app.run(debug=True,threaded=True,port=5006,host='0.0.0.0')

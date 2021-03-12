@@ -1,0 +1,118 @@
+{
+  "config": {
+
+    "lock_pro": 1,
+
+    "native_ads": 1,
+    "native_ads_freq": 5,
+    "inter_ads": 0,
+    "inter_ads_freq": 1000,
+    "content_locked_percent": 0,
+    "payment_delay": 30,
+    "payment_time": 1,
+    "noti_delay": 10,
+    "noti_time": 1,
+    "btn_share": 1,
+    "btn_share_screenshoot": 1,
+    "btn_share_webview": 1,
+    "reaction_layout": 1,
+    "rate_app": 1,
+    "dark_mode": 1,
+    "update_every_x_hour": 1,
+    "reward_ads_on_payment_close": 0,
+    "reward_ads_on_back_webview": 0,
+    "lock_dark_mode": 0,
+    "lock_news_filter": 0,
+    "weather": 1,
+    "payment_version": 1,
+    "intro_version": 0,
+    "page_switch_delay": 2,
+    "banner_ads_ontop": 1,
+    "show_tutorial": 1,
+    "show_intro": 1,
+    "buy_coffee_tea": 0,
+
+    "ticket_valid_days": 7,
+    "background_update": 1,
+    "background_update_freq": 1
+  },
+  "background_update":{
+    "background_update_freq_type": "days"
+},
+  "features": {
+    "price": "1usd_1year_sub",
+    "payment_show": "on",
+    "tv1": "Ads Free",
+    "tv2": "Smart Filter",
+    "tv3": "Dark Mode",
+    "tv4": "Daily News Update",
+    "tv5": "First to try new features and more",
+    "tv6": "Start Now",
+    "tv7": "<3",
+    "btnFreeTrial": "Continue",
+    "btnClosePayment_delay": 0
+  },
+  "intro": {
+    "p0tv1": "Too much negativity everywhere?",
+    "p0tv2": "Get rid of bad news with smart filters",
+    "p1tv1": "Night mode",
+    "p1tv2": "Anti eye strain and beautiful interface",
+    "p2tv1": "You are in control",
+    "p2tv2": "Daily news updates, read what you want",
+    "p3tv1": "You are the inspiration",
+    "p3tv2": "Spread the positive energy to everyone\n❤️PRESS the BUTTON BELOW to Continue👇",
+    "p4tv1": "Your Privacy is important",
+    "p4tv2": "We never share your data or whatever, your privacy is just important as your experiences ❤. Read more...",
+    "img0": "http://images.pexels.com/photos/915051/pexels-photo-915051.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "img1": "http://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "img2": "http://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "img3": "http://images.pexels.com/photos/1776862/pexels-photo-1776862.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "img4": "http://images.pexels.com/photos/712413/pexels-photo-712413.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  "bottom_payment": {
+    "bottom_payment_tv0": "Upgrade Gorgeously",
+    "bottom_payment_tv1": "Access pro features",
+    "bottom_payment_tv2": "Can unsubscribe anytime",
+    "bottom_payment_tv3": "Unlimited Good news daily",
+    "bottom_payment_tv4": "Start Now",
+    "bottom_payment_tv5": "Continue"
+  },
+  "1_page_payment": {
+    "1_page_payment_0_tv1": "Start Now",
+    "1_page_payment_0_tv2": "If you choose to purchase Gorgeously, payment will be charged to your Google Play account, and your account will be charged for renewal within 24-hours prior to the end of the current period."
+  },
+  "4_page_payment": {
+    "4_page_payment_0_tv1": "Bad news are bad for your health and your mind",
+    "4_page_payment_0_tv2": "Why are newspapers and TV broadcasts filled with disaster, corruption and incompetence? It may be because we’re drawn to depressing stories without realising, says psychologist Tom Stafford.",
+    "4_page_payment_1_tv1": "Too much bad news can make you sick",
+    "4_page_payment_1_tv2": "With every news alert or breaking story, our world seems to be pushed further and further into crisis. It is taking a serious toll on our environment but also on our mental health.",
+    "4_page_payment_2_tv1": "This is your brain on disaster",
+    "4_page_payment_2_tv2": "Our brains are hardwired to process stress relating to trauma by entering what is known as \"fight, flight, freeze\" mode before returning to a restful state, explained Susanne Babbel, a psychotherapist specializing in trauma recovery. However, constant exposure to trauma can derail our ability to cope healthily and hinder our ability to return to a relaxed state.",
+    "4_page_payment_3_tv1": "Start Now",
+    "4_page_payment_3_tv2": "If you choose to purchase Gorgeously, payment will be charged to your Google Play account, and your account will be charged for renewal within 24-hours pior to the end of the current period."
+  },
+
+  "payment_style": {
+    "payment_style_unlock_features": "bottom_payment",
+    "payment_style_on_start": "none",
+    "payment_style_unlock_news": "bottom_payment",
+    "payment_style_on_restart": "dialog_payment"
+  },
+
+  "links": {
+    "coffee_tea": "https://ko-fi.com/sunnyday",
+    "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
+  },
+
+  "show_payment_when_pro_expired":{
+	"pro_expired_alert":"PRO package has just expired, upgrade today to continue PRO"
+},
+  "invite_friends_to_unlock_reward":{
+	"invite_friends_tv0":"REWARD 💎",
+	"invite_friends_tv1":"Congratulation! You just unlock PRO for 1 week",
+	"invite_friends_tv2":"Keep inviting your friends to unlock even more",
+        "invite_friends_tv3":"",
+        "invite_friends_tv4":"",
+        "invite_friends_btn":"OK"
+}
+}

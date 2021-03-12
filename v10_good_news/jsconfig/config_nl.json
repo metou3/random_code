@@ -1,0 +1,112 @@
+{
+    "1_page_payment": {
+        "1_page_payment_0_tv1": "Begin nu",
+        "1_page_payment_0_tv2": "Als u ervoor kiest om Gorgeously te kopen, wordt de betaling in rekening gebracht op uw Google Play-account en wordt uw account binnen 24 uur voorafgaand aan het einde van de huidige periode in rekening gebracht voor verlenging."
+    },
+    "4_page_payment": {
+        "4_page_payment_0_tv1": "Slecht nieuws is slecht voor uw gezondheid en uw geest",
+        "4_page_payment_0_tv2": "Waarom staan \u200b\u200bkranten en tv-uitzendingen vol met rampen, corruptie en incompetentie? Het kan zijn omdat we ons aangetrokken voelen tot deprimerende verhalen zonder het te beseffen, zegt psycholoog Tom Stafford.",
+        "4_page_payment_1_tv1": "Te veel slecht nieuws kan je ziek maken",
+        "4_page_payment_1_tv2": "Met elke nieuwswaarschuwing of brekend verhaal lijkt onze wereld steeds verder in een crisis te worden geduwd. Het eist een ernstige tol van ons milieu, maar ook van onze geestelijke gezondheid.",
+        "4_page_payment_2_tv1": "Dit is je brein bij een ramp",
+        "4_page_payment_2_tv2": "Onze hersenen zijn vastbesloten om stress gerelateerd aan trauma te verwerken door de zogenaamde \"vecht, vlucht, bevriezing\" -modus in te voeren voordat we terugkeren naar een rustgevende toestand, legt Susanne Babbel uit, een psychotherapeut die gespecialiseerd is in traumaherstel. Constante blootstelling aan trauma kan ons vermogen om gezond om te gaan echter ontsporen en ons vermogen om terug te keren naar een ontspannen toestand belemmeren.",
+        "4_page_payment_3_tv1": "Begin nu",
+        "4_page_payment_3_tv2": "Als u ervoor kiest om Gorgeously te kopen, wordt de betaling in rekening gebracht op uw Google Play-account en wordt uw account binnen 24 uur v\u00f3\u00f3r het einde van de huidige periode in rekening gebracht voor verlenging."
+    },
+    "background_update": {
+        "background_update_freq_type": "dagen"
+    },
+    "bottom_payment": {
+        "bottom_payment_tv0": "Upgrade prachtig",
+        "bottom_payment_tv1": "Toegang tot professionele functies",
+        "bottom_payment_tv2": "Kan op elk moment uitschrijven",
+        "bottom_payment_tv3": "Onbeperkt Goed nieuws dagelijks",
+        "bottom_payment_tv4": "Begin nu",
+        "bottom_payment_tv5": "Doorgaan met"
+    },
+    "config": {
+        "background_update": 1,
+        "background_update_freq": 1,
+        "banner_ads_ontop": 1,
+        "btn_share": 1,
+        "btn_share_screenshoot": 1,
+        "btn_share_webview": 1,
+        "buy_coffee_tea": 0,
+        "content_locked_percent": 0,
+        "dark_mode": 1,
+        "inter_ads": 0,
+        "inter_ads_freq": 1000,
+        "intro_version": 0,
+        "lock_dark_mode": 0,
+        "lock_news_filter": 0,
+        "lock_pro": 1,
+        "native_ads": 1,
+        "native_ads_freq": 5,
+        "noti_delay": 10,
+        "noti_time": 1,
+        "page_switch_delay": 2,
+        "payment_delay": 30,
+        "payment_time": 1,
+        "payment_version": 1,
+        "rate_app": 1,
+        "reaction_layout": 1,
+        "reward_ads_on_back_webview": 0,
+        "reward_ads_on_payment_close": 0,
+        "show_intro": 1,
+        "show_tutorial": 1,
+        "ticket_valid_days": 7,
+        "update_every_x_hour": 1,
+        "weather": 1
+    },
+    "features": {
+        "btnClosePayment_delay": 0,
+        "btnFreeTrial": "Doorgaan met",
+        "payment_show": "on",
+        "price": "1usd_1year_sub",
+        "tv1": "Advertenties gratis",
+        "tv2": "Slimme filter",
+        "tv3": "Donkere modus",
+        "tv4": "Dagelijkse nieuwsupdate",
+        "tv5": "Probeer als eerste nieuwe functies en meer",
+        "tv6": "Begin nu",
+        "tv7": "<3"
+    },
+    "intro": {
+        "img0": "http://images.pexels.com/photos/915051/pexels-photo-915051.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img1": "http://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img2": "http://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img3": "http://images.pexels.com/photos/1776862/pexels-photo-1776862.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img4": "http://images.pexels.com/photos/712413/pexels-photo-712413.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "p0tv1": "Overal teveel negativiteit?",
+        "p0tv2": "Weg met slecht nieuws met slimme filters",
+        "p1tv1": "Nachtstand",
+        "p1tv2": "Anti-vermoeidheid van de ogen en mooie interface",
+        "p2tv1": "Jij hebt de controle",
+        "p2tv2": "Dagelijkse nieuwsupdates, lees wat je wilt",
+        "p3tv1": "Jij bent de inspiratie",
+        "p3tv2": "Verspreid de positieve energie naar iedereen\n\u2764\ufe0fDRUK OP DE KNOP HIERONDER om door te gaan\ud83d\udc47",
+        "p4tv1": "Uw privacy is belangrijk",
+        "p4tv2": "We delen nooit uw gegevens of wat dan ook, uw privacy is net zo belangrijk als uw ervaringen \u2764. Lees verder..."
+    },
+    "invite_friends_to_unlock_reward": {
+        "invite_friends_btn": "OK",
+        "invite_friends_tv0": "BELONING \ud83d\udc8e",
+        "invite_friends_tv1": "Gefeliciteerd! Je ontgrendelt PRO gewoon voor 1 week",
+        "invite_friends_tv2": "Blijf je vrienden uitnodigen om nog meer te ontgrendelen",
+        "invite_friends_tv3": "",
+        "invite_friends_tv4": ""
+    },
+    "links": {
+        "coffee_tea": "https://ko-fi.com/sunnyday",
+        "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
+    },
+    "payment_style": {
+        "payment_style_on_restart": "dialog_payment",
+        "payment_style_on_start": "geen",
+        "payment_style_unlock_features": "bottom_payment",
+        "payment_style_unlock_news": "bottom_payment"
+    },
+    "show_payment_when_pro_expired": {
+        "pro_expired_alert": "PRO-pakket is zojuist verlopen, upgrade vandaag nog om door te gaan met PRO"
+    }
+}

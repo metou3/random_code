@@ -1,0 +1,112 @@
+{
+    "1_page_payment": {
+        "1_page_payment_0_tv1": "B\u00f6rja nu",
+        "1_page_payment_0_tv2": "Om du v\u00e4ljer att k\u00f6pa Gorgeously debiteras ditt Google Play-konto och ditt konto kommer att debiteras f\u00f6r f\u00f6rnyelse inom 24 timmar f\u00f6re slutet av den aktuella perioden."
+    },
+    "4_page_payment": {
+        "4_page_payment_0_tv1": "D\u00e5liga nyheter \u00e4r d\u00e5liga f\u00f6r din h\u00e4lsa och ditt sinne",
+        "4_page_payment_0_tv2": "Varf\u00f6r \u00e4r tidningar och TV-s\u00e4ndningar fyllda med katastrof, korruption och inkompetens? Det kan bero p\u00e5 att vi dras till deprimerande historier utan att inse det, s\u00e4ger psykolog Tom Stafford.",
+        "4_page_payment_1_tv1": "F\u00f6r mycket d\u00e5liga nyheter kan g\u00f6ra dig sjuk",
+        "4_page_payment_1_tv2": "Med varje nyhetsvarning eller nyhetsber\u00e4ttelse verkar v\u00e5r v\u00e4rld pressas l\u00e4ngre och l\u00e4ngre in i kris. Det tar en allvarlig avgift p\u00e5 v\u00e5r milj\u00f6 men ocks\u00e5 p\u00e5 v\u00e5r mentala h\u00e4lsa.",
+        "4_page_payment_2_tv1": "Det h\u00e4r \u00e4r din hj\u00e4rna vid katastrof",
+        "4_page_payment_2_tv2": "V\u00e5ra hj\u00e4rnor \u00e4r tr\u00e5dbundna f\u00f6r att bearbeta stress relaterade till trauma genom att g\u00e5 in i det som kallas \"sl\u00e5ss, flyga, frysa\" -l\u00e4ge innan vi \u00e5terv\u00e4nder till ett vilande tillst\u00e5nd, f\u00f6rklarade Susanne Babbel, en psykoterapeut som specialiserat sig p\u00e5 trauma\u00e5terst\u00e4llning. Men konstant exponering f\u00f6r trauma kan sp\u00e5ra v\u00e5r f\u00f6rm\u00e5ga att klara h\u00e4lsosamt och hindra v\u00e5r f\u00f6rm\u00e5ga att \u00e5terv\u00e4nda till ett avslappnat tillst\u00e5nd.",
+        "4_page_payment_3_tv1": "B\u00f6rja nu",
+        "4_page_payment_3_tv2": "Om du v\u00e4ljer att k\u00f6pa Gorgeously debiteras betalningen p\u00e5 ditt Google Play-konto och ditt konto kommer att debiteras f\u00f6r f\u00f6rnyelse inom 24 timmar f\u00f6re slutet av den aktuella perioden."
+    },
+    "background_update": {
+        "background_update_freq_type": "dagar"
+    },
+    "bottom_payment": {
+        "bottom_payment_tv0": "Uppgradera underbart",
+        "bottom_payment_tv1": "F\u00e5 tillg\u00e5ng till pro-funktioner",
+        "bottom_payment_tv2": "Kan avsluta prenumerationen n\u00e4r som helst",
+        "bottom_payment_tv3": "Obegr\u00e4nsad goda nyheter dagligen",
+        "bottom_payment_tv4": "B\u00f6rja nu",
+        "bottom_payment_tv5": "Forts\u00e4tta"
+    },
+    "config": {
+        "background_update": 1,
+        "background_update_freq": 1,
+        "banner_ads_ontop": 1,
+        "btn_share": 1,
+        "btn_share_screenshoot": 1,
+        "btn_share_webview": 1,
+        "buy_coffee_tea": 0,
+        "content_locked_percent": 0,
+        "dark_mode": 1,
+        "inter_ads": 0,
+        "inter_ads_freq": 1000,
+        "intro_version": 0,
+        "lock_dark_mode": 0,
+        "lock_news_filter": 0,
+        "lock_pro": 1,
+        "native_ads": 1,
+        "native_ads_freq": 5,
+        "noti_delay": 10,
+        "noti_time": 1,
+        "page_switch_delay": 2,
+        "payment_delay": 30,
+        "payment_time": 1,
+        "payment_version": 1,
+        "rate_app": 1,
+        "reaction_layout": 1,
+        "reward_ads_on_back_webview": 0,
+        "reward_ads_on_payment_close": 0,
+        "show_intro": 1,
+        "show_tutorial": 1,
+        "ticket_valid_days": 7,
+        "update_every_x_hour": 1,
+        "weather": 1
+    },
+    "features": {
+        "btnClosePayment_delay": 0,
+        "btnFreeTrial": "Forts\u00e4tta",
+        "payment_show": "on",
+        "price": "1usd_1year_sub",
+        "tv1": "Annonser gratis",
+        "tv2": "Smart filter",
+        "tv3": "M\u00f6rkt l\u00e4ge",
+        "tv4": "Daglig uppdatering av nyheter",
+        "tv5": "F\u00f6rst att testa nya funktioner och mer",
+        "tv6": "B\u00f6rja nu",
+        "tv7": "<3"
+    },
+    "intro": {
+        "img0": "http://images.pexels.com/photos/915051/pexels-photo-915051.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img1": "http://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img2": "http://images.pexels.com/photos/2526128/pexels-photo-2526128.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img3": "http://images.pexels.com/photos/1776862/pexels-photo-1776862.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "img4": "http://images.pexels.com/photos/712413/pexels-photo-712413.jpeg?auto=compress&cs=tinysrgb&w=500",
+        "p0tv1": "F\u00f6r mycket negativitet \u00f6verallt?",
+        "p0tv2": "Bli av med d\u00e5liga nyheter med smarta filter",
+        "p1tv1": "Nattl\u00e4ge",
+        "p1tv2": "Anti \u00f6gonbelastning och vackert gr\u00e4nssnitt",
+        "p2tv1": "Du har kontroll",
+        "p2tv2": "Dagliga nyheter, l\u00e4s vad du vill",
+        "p3tv1": "Du \u00e4r inspiration",
+        "p3tv2": "Sprid den positiva energin till alla\n\ufe0fTRYCK P\u00c5 KNAPPEN UNDER f\u00f6r att forts\u00e4tta\ud83d\udc47",
+        "p4tv1": "Din integritet \u00e4r viktig",
+        "p4tv2": "Vi delar aldrig dina data eller vad som helst, din integritet \u00e4r bara viktig som dina erfarenheter \u2764. L\u00e4s mer..."
+    },
+    "invite_friends_to_unlock_reward": {
+        "invite_friends_btn": "OK",
+        "invite_friends_tv0": "BEL\u00d6NNING \ud83d\udc8e",
+        "invite_friends_tv1": "Grattis! Du l\u00e5ser bara upp PRO i en vecka",
+        "invite_friends_tv2": "Forts\u00e4tt bjuda in dina v\u00e4nner att l\u00e5sa upp \u00e4nnu mer",
+        "invite_friends_tv3": "",
+        "invite_friends_tv4": ""
+    },
+    "links": {
+        "coffee_tea": "https://ko-fi.com/sunnyday",
+        "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
+    },
+    "payment_style": {
+        "payment_style_on_restart": "dialog_betalning",
+        "payment_style_on_start": "ingen",
+        "payment_style_unlock_features": "bottenbetalning",
+        "payment_style_unlock_news": "bottenbetalning"
+    },
+    "show_payment_when_pro_expired": {
+        "pro_expired_alert": "PRO-paketet har precis g\u00e5tt ut, uppgradera idag f\u00f6r att forts\u00e4tta PRO"
+    }
+}
